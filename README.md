@@ -3,7 +3,7 @@
 ### Para que funcione perfeitamente, siga os passos:
 1. Baixe a pasta "assets"
 2. O arquivo "index.html"
-
+------------------------------------------------
 English Version:
 ## Hey there, It's built with HTML, CSS, and JS.
 
