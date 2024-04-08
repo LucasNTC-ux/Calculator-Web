@@ -1,7 +1,12 @@
-# calculadora
+## Olá, esta calculadora foi feita em HTML, CSS e JS.
 
-Simple calculator developed in HTML, CSS and JS.
-Calculadora simples desevolvida em HTML, CSS e JS.
+## Para que funcione perfeitamente, siga os passos:
+1. Baixe a pasta "assets"
+2. O arquivo "index.html"
 
-# - Basta apenas baixar a pasta "assets" juntamente com o arquivo "index.html" e abrir o mesmo em seu navegador que irá funcionar :) Espero que gostem.
-# - Just download the "assets" folder together with the "index.html" file and open it in your browser and it will work :) Hope you like it.
+English Version:
+## Hey there, It's built with HTML, CSS, and JS.
+
+## To get it up and running, just follow these quick steps:
+1. Download the "assets" folder.
+2. Grab the "index.html" file.
